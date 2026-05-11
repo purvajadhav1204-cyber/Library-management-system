@@ -1,0 +1,41 @@
+/* Whole page background */
+body {
+    margin: 0;
+    background-color: #eaf4ff; /* light blue */
+    font-family: Arial, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #0b3c5d; /* dark blue */
+    color: white;
+    width: 220px;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h4 {
+    color: #ffffff;
+}
+
+.sidebar a {
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+/* Content area */
+.content {
+    padding: 30px;
+    width: 100%;
+    background-color: #eaf4ff; /* same light blue */
+}
+
+/* Table look */
+table {
+    background-color: white;
+}
+
+.table th {
+    background-color: #d6eaff;
+}
